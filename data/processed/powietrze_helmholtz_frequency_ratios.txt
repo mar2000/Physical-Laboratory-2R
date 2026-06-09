@@ -1,0 +1,5 @@
+Stosunki częstotliwości rezonansowych dla powietrze_helmholtz
+================================================
+h=1: f0 = 1927.08 Hz, f0/f1 = 1.000
+h=2: f0 = 4057.47 Hz, f0/f1 = 2.106
+h=3: f0 = 5561.85 Hz, f0/f1 = 2.886

@@ -1,0 +1,6 @@
+Stosunki częstotliwości rezonansowych dla tlenki_azotu_ozon_helmholtz
+================================================
+h=1: f0 = 1925.06 Hz, f0/f1 = 1.000
+h=2: f0 = 4048.66 Hz, f0/f1 = 2.103
+h=3: f0 = 5543.71 Hz, f0/f1 = 2.880
+h=4: f0 = 6386.91 Hz, f0/f1 = 3.318

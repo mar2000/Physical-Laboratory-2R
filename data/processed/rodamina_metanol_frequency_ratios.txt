@@ -1,0 +1,5 @@
+Stosunki częstotliwości rezonansowych dla rodamina_metanol
+================================================
+h=1: f0 = 2262.03 Hz, f0/f1 = 1.000
+h=2: f0 = 4309.54 Hz, f0/f1 = 1.905
+h=3: f0 = 6400.76 Hz, f0/f1 = 2.830

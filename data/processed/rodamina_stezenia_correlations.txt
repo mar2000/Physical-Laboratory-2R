@@ -1,0 +1,5 @@
+Podsumowanie zależności od stężenia dla rodamina_stezenia
+================================================
+Korelacja log(stężenia) — Amax_pomiar: 0.9883
+Korelacja log(stężenia) — f0_Hz: 0.5852
+Korelacja log(stężenia) — A0: 0.9671
